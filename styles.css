@@ -6,3 +6,54 @@
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
+p {
+    color: hsl(233, 8%, 79%);
+}
+
+hr {
+    color: hsl(233, 8%, 79%);
+    width: 95%;
+    margin: auto;
+}
+
+.wht {
+    color: hsl(36, 100%, 99%);
+}
+
+.grb {
+    color: hsl(233, 8%, 79%);
+}
+
+.dkgb {
+    color: hsl(236, 13%, 42%);
+}
+
+.bdk {
+    color: hsl(240, 100%, 5%);
+}
+
+body {
+    margin: 0;
+}
+
+.body-container {
+    margin: 5%;
+}
+
+.new-container {
+    background-color: hsl(240, 100%, 5%);
+}
+
+.hero-container {
+    display: flex;
+}
+
+.information-container {
+    display: inline-flex;
+    margin-top: 5%;
+}
+
+.information-item {
+    display: inline-block;
+}
